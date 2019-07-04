@@ -26,7 +26,7 @@ This response shows the full execution path of the shell interpreter. Make sure 
 
 Пример
 -------------
-Use the "echo" command to print the line "Hello, World!".
+Использование команды "echo" для вывода текста "Hello, World!".
 
 Код урока
 -------------
